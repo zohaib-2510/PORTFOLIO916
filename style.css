@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gochi+Hand&family=Great+Vibes&family=Lumanosimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gochi+Hand&family=Great+Vibes&family=Lumanosimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gochi+Hand&family=Great+Vibes&family=Indie+Flower&family=Lumanosimo&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+}
+.navbar-brand   {
+    padding-left: 2%;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gochi Hand', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Lumanosimo', cursive;
+}
+.bvh {
+    gap: 200px;
+    font-size: 1.3rem;
+    
+
+}
+
+#home {
+   position: absolute;
+    background-color: #0047AB;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+.bhu {
+   border-bottom: 5px solid black;
+}
+.vgy {
+   
+    font-size: 1vw;
+    padding-top: 6vw;
+}
+.cft {
+    font-size: 3.5vw;
+    padding-left: 3.8vw;
+    color: #e8e4c9;
+}
+
+.nji {
+    padding-left: 5.5vw;
+font-size: 4.5vw;
+color: #89e8fc;
+font-family: 'Dancing Script', cursive;
+font-family: 'Gochi Hand', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lumanosimo', cursive;
+}
+
+h2 {
+    padding-top: 2.3vw;
+    padding-left: 4vw;
+    font-size: 3.3vw;
+    
+}
+.bhu {
+    font-size: 5vw;
+    color: #6ef35a;
+     font-family: 'Dancing Script', cursive;
+ /* font-family: 'Gochi Hand', cursive; 
+font-family: 'Great Vibes', cursive;
+font-family: 'Lumanosimo', cursive;  */
+}
