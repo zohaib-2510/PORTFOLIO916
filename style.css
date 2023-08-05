@@ -60,7 +60,7 @@ h2 {
     padding-top: 2.3vw;
     padding-left: 4vw;
     font-size: 3.3vw;
-    
+    animation: backwards;
 }
 .bhu {
     font-size: 5vw;
