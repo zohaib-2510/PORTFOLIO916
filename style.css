@@ -35,7 +35,7 @@ body{
    border-bottom: 5px solid black;
 }
 .vgy {
-   
+ 
     font-size: 1vw;
     padding-top: 6vw;
 }
@@ -70,3 +70,31 @@ h2 {
 font-family: 'Great Vibes', cursive;
 font-family: 'Lumanosimo', cursive;  */
 }
+
+.img1 {
+    width: 95vw;
+    height: 30vw;
+    display: flex;
+    justify-content: flex-end;
+    /* position: absolute;  */
+ margin-top: -17vw;
+} 
+
+
+.pg1 {
+    height: 20vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
